@@ -15,9 +15,9 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className='footer__socials'>
-        <a href="https://www.instagram.com/moha_med_musa/" target="_blank"><BsInstagram /></a>
-        <a href="https://www.facebook.com/mohamed.musa.737/" target="_blank"><BsFacebook /></a>
-        <a href="https://www.youtube.com/channel/UC0T2E2AcLra4yepPkZUO6BQ" target="_blank"><BsTwitter /></a>
+        <a href="https://www.instagram.com/moha_med_musa/"rel="noreferrer" target="_blank"><BsInstagram /></a>
+        <a href="https://www.facebook.com/mohamed.musa.737/" rel="noreferrer" target="_blank"><BsFacebook /></a>
+        <a href="https://www.youtube.com/channel/UC0T2E2AcLra4yepPkZUO6BQ" rel="noreferrer" target="_blank"><BsTwitter /></a>
       </div> 
       <div className="footer__copyright">
         <small>&copy; Mohamed Musa. All rights reserved</small>
